@@ -1,6 +1,8 @@
 import Home from './Home';
 import About from './About';
 import Service from './Service';
+import Project from './Project';
+import Blog from './Blog';
 import './App.css';
 
 function App() {
@@ -9,6 +11,8 @@ function App() {
       <Home />
       <About />
       <Service />
+      <Project />
+      <Blog />
     </div>
   );
 }
