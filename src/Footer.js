@@ -1,4 +1,4 @@
-import footerImg from './img/logo2.png';
+import footerImg from "./img/logo2.png";
 
 const Footer = () => {
   return (
@@ -9,7 +9,7 @@ const Footer = () => {
       <img src={footerImg} alt="" className="footer__img pointer" />
       <span
         className="copyright"
-        style={{ color: "#c6c9d8", fontSize: "14px", opacity: "0.75" }}
+        style={{ color: "#c6c9d8", padding: "10px 70px", fontSize: "14px", opacity: "0.75" }}
       >
         Copyright © 2022 programmer John Pablo. All Rights Reserved.
       </span>

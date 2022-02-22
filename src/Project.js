@@ -6,7 +6,7 @@ import Project4 from "./img/portfolio-4.jpg";
 
 const Project = () => {
   return (
-    <div className="project component__space">
+    <div className="project component__space" id="Portfolio">
       <div className="heading">
         <h1 className="heading">My Latest Project</h1>
         <p className="heading p__color">
@@ -183,7 +183,6 @@ const Project = () => {
           <div className="view__more__btn d__flex align__items__center justify__content__center pxy__30">
             <button className="view__more pointer btn">View more</button>
           </div>
-          
         </div>
       </div>
     </div>

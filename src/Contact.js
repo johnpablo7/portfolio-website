@@ -1,11 +1,10 @@
-import contactImg from './img/about-9.jpg';
+import contactImg from "./img/about-9.jpg";
 import "./Contact.css";
 
 const Contact = () => {
   return (
-    <div className="contact component__space">
+    <div className="contact component__space" id="Contact">
       <div className="row">
-
         <div className="col__2">
           <div className="contact__box">
             <div className="contact__meta">
@@ -14,8 +13,8 @@ const Contact = () => {
                 I am available for freelance work. Connect with me via phone:
               </p>
               <p className="hire__text white">
-                <strong>+51 917760492</strong> or email{" "}
-                <strong>john.davis.2015.03@gmail.com</strong>
+                <strong>+51 917760492</strong>  or email
+                <strong>  john.davis.2015.03@gmail.com</strong>
               </p>
             </div>
             <div className="input__box">
