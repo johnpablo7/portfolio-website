@@ -41,9 +41,9 @@ export const About = () => {
           <p>
             Hello! I am John Pablo. I am a Peruvian front end developer with 2
             years of experience directing web page design projects 💻. I am
-            specialized in frontend web development with React Js, and focused
-            on creating clear and capable code to meet the objectives and needs
-            of the client, my real goal is to become a Full Stack developer with
+            specialized in frontend web development with React Js and focused on
+            creating clear and capable code to meet the objectives and needs of
+            the client, my real goal is to become a Full Stack developer with
             the MERN stack (subject to change) and React Native for mobile
             development.
             <br />
